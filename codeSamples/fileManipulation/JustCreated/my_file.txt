@@ -1,0 +1,14 @@
+This is a file i created for learning purposes
+It will have multiple lines
+This is another line
+Another line
+Another line
+Another line
+Another line
+ANOTHER LINE
+This line was added from a script
+This line was added from a script
+This line was added from a script
+This line was added from a script
+This line was added from a script
+This line was added from a script

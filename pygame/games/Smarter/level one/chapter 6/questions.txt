@@ -1,0 +1,7 @@
+question:Who is the president of America?,right-answer:Barack Obama,option1:George Washington,option2:Paul Kagame,option3:Barack Obama,score:5,
+question:Who created Facebook?,right-answer:Mark Zuckeberg,option1:Bill Gates,option2:Mark Zuckeberg,option3:Steve Jobs,score:5,
+question:who is the richest person on earth?,right-answer:Bill Gates,option1:Bill Gates,option2:Jack Ma,option3:Peter Davinch,score:5,
+question:What is the capital of United Kingdom?,right-answer:London,option1:Manchester,option2:Arsenal,option3:London,score:5,
+question:Name the world's biggest island,right-answer:Greenland,option1:Greenland,option2:Redland,option3:Manilla,score:10,
+question:What is the world's longest river?,right-answer:Amazon,option1:Netherland,option2:Nil,option3:Amazon,score:10,
+question:What is the capital city of Spain,right-answer:Madrid,option1:Barcelona,option2:Madrid,option3:Arsenal,score:5,
